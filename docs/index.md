@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: cv
 title: Jake Zalesny's Resume
 ---
 # Jake Zalesny
