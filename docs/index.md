@@ -65,15 +65,16 @@ __BYUI Career & Academic Advising__, Peer Advisor
 
 
 ## Relevant Projects
-[Convolutional Neural Network](https://colab.research.google.com/drive/1kMunNFmPVUmiBOZLafjvApHhA76-fUYA?usp=sharing)
-[Recurrent Neural Network](https://colab.research.google.com/drive/1C5S7VVK6PztmJDGPPGtsmSbNtYvBTXLl?usp=sharing)
-[C# App](https://github.com/JakeZalesny/Aesthetic_Music_Player)
-[JavaScript Browser Game](https://github.com/JakeZalesny/Meow_Knight)
+<div id="webaddress">
+<a href="https://colab.research.google.com/drive/1kMunNFmPVUmiBOZLafjvApHhA76-fUYA?usp=sharing">Convolutional Neural Network</a>
+<a href="https://colab.research.google.com/drive/1C5S7VVK6PztmJDGPPGtsmSbNtYvBTXLl?usp=sharing">Recurrent Neural Network</a>
+<a href="https://github.com/JakeZalesny/Aesthetic_Music_Player">C# App</a>
+<a href="https://github.com/JakeZalesny/Meow_Knight">JavaScript Browser Game</a>
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Dec 2023-->
 
 
