@@ -1,84 +1,74 @@
 ---
-layout: cv
-title: Brigham Young's Resume
+layout: resume
+title: Jake Zalesny's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Jake Zalesny
+Data Scientist & Research Analysist. 
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="zal18001@byui.edu">Work Email</a>
+| <a href="https://github.com/JakeZalesny">Github Homepage</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2014-2018`
+__Point Loma High School__, San Diego, CA
 
-- Full academic scholarship with 4.0 GPA
+- Honor Graduate with a 3.8 GPA
 
-`Expected 2029`
+`Expected 2025`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.8 Major GPA
 
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`January 2023 - June 2024`
+__IMR International__, San Diego, CA
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Worked on Data Visualization & Wrangling with densely packed data and messy information. 
+- Created several predicted models using regression analysis and machine learning tactics
+- Predicted sales outcomes for the coming fiscal year with less than a one percent margin of error. 
 
-### Data Science Lead
+### Work Experience
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`March 2022 - Present`
+__BYUI Career & Academic Advising__, Team Lead
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Effective Leadership Skills
+- Overseeing of groups of 4+ peers for optimal success in high stress environments
+- Clear coordination between 150+ Faculty Members, 9 Department Chairs and 3 College Coordinators and groups of 14+ - peer advisors
+- Demonstrated leadership skills leading to a 46% increase in lead goals within the first two weeks of the goal, and a 59% increase in the following two weeks
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+`Jan 2022 - March 2022`
+__BYUI Career & Academic Advising__, Peer Advisor
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+- Effective Cooperation Skills
+- Talented Problem-Solving in High-risk Situations
+- Professional Communication with peers and supervisors
 
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+## Relevant Experience
+- Data Science / Data Analytics
+- SQL / SQLite3
+- C# / C++ Development
+- Machine Learning
+- Small Team Management
+- Python Development
+- Relevant Experience
 
 
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
+## Relevant Projects
+[https://colab.research.google.com/drive/1kMunNFmPVUmiBOZLafjvApHhA76-fUYA?usp=sharing]
+[https://colab.research.google.com/drive/1C5S7VVK6PztmJDGPPGtsmSbNtYvBTXLl?usp=sharing]
+[https://github.com/JakeZalesny/Aesthetic_Music_Player]
+[https://github.com/JakeZalesny/Meow_Knight]
 
 
 
